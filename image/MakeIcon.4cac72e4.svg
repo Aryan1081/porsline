@@ -1,0 +1,17 @@
+<svg width="33" height="32" viewBox="0 0 33 32" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="119.776%" id="y5hjoe46ba">
+            <stop stop-color="#6B00CB" offset="0%"/>
+            <stop stop-color="#F0F" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-44.133%" x2="50%" y2="100%" id="qeff3ksmrb">
+            <stop stop-color="#6B00CB" offset="0%"/>
+            <stop stop-color="#F0F" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(.975 4.8)" fill="none" fill-rule="evenodd">
+        <rect fill="#6B00CB" x="24.916" y=".507" width="7.109" height="21.385" rx=".889"/>
+        <path d="m16.025.507 5.332.003c.49 0 .888.398.888.888l.011 19.606a.889.889 0 0 1-.889.889l-5.332-.003a.889.889 0 0 1-.888-.888l-.011-19.606a.889.889 0 0 1 .889-.889z" fill="url(#y5hjoe46ba)" transform="rotate(12 18.696 11.2)"/>
+        <path d="m5.355.51 5.336.006c.49.001.887.398.887.888L11.6 21a.889.889 0 0 1-.89.89l-5.335-.006a.889.889 0 0 1-.888-.888L4.465 1.4a.889.889 0 0 1 .89-.89z" fill="url(#qeff3ksmrb)" transform="rotate(27 8.033 11.2)"/>
+    </g>
+</svg>
